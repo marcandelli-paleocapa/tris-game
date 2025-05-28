@@ -62,8 +62,8 @@ h1 {
 .restart-btn {
     padding: 10px 20px;
     font-size: 1rem;
-    background-color: #4CAF50;
-    color: white;
+    background-color: #18b5d1;
+    color: rgb(66, 224, 87);
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -71,7 +71,7 @@ h1 {
 }
 
 .restart-btn:hover {
-    background-color: #45a049;
+    background-color: #fcfcfc;
 }
 
 .x {
